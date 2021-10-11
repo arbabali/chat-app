@@ -5,3 +5,5 @@
 * Express
 * Socket.io 
 * hbs template
+
+## Try it  on  [Heroku!](https://chat-app-arbu.herokuapp.com)
