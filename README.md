@@ -1,6 +1,7 @@
-*Real-Time Chat Application 
+# Real-Time Chat Application  ⏲️ 💌
 
-**Technology Used
-*Node.js
-*Express
-*Socket.io 
+## Technologies Used
+* Node.js
+* Express
+* Socket.io 
+* hbs template
